@@ -134,7 +134,7 @@ export default function Home() {
               <h3 className="heading-technical">Technical Skills</h3>
               <img
                 className="background-shadow-7"
-                src="/Background+Shadow (1).png"
+                src="/your-image.png"
                 alt="Technical skills chart showing proficiency in HTML, CSS, JavaScript, React, and other web technologies"
               />
             </div>
